@@ -11,9 +11,9 @@
   </padding>
 
   <Label fx:id="welcomeText" text="CSC311" />
-  <Label fx:id="welcomeText1" text="CSC311" />
+
    <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="113.0" text="Megan Parnell" textAlignment="CENTER" />
   <Button onAction="#onHelloButtonClick" text="Hello!" />
- <Button contentDisplay="CENTER" mnemonicParsing="false" prefHeight="25.0" prefWidth="97.0" text="New Button" textAlignment="CENTER" />
+
     <Button onAction="#onNewButtonClick" text="New Button" />
 </VBox>

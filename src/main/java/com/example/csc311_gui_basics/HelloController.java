@@ -16,6 +16,6 @@ public class HelloController {
 
     @FXML
     protected void onNewButtonClick() {
-        welcomeText.setText("Mmmmmmm!");
+        welcomeText.setText("Megan Parnell");
     }
 }
